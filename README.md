@@ -2,7 +2,7 @@
 
 ## 设计逻辑如下
 
-![](README\BehaviourTree_Design_mindmap.png)
+![](README/BehaviourTree_Design_mindmap.png)
 
 ### 代码和思路来自：[Create an AI with behaviour trees [Unity/C# tutorial\] (youtube.com)](https://www.youtube.com/watch?v=aR6wt5BlE-E)
 
